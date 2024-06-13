@@ -1,0 +1,12 @@
+﻿ID_PRODUCTO,NOMBRE_PRODUCTO,CATEGORIA,ESTADO,FECHA_CREACION,VALOR_UNITARIO
+564,Expreso,Bebidas,Activo,2023-04-10,3
+565,Martini,Bebidas,Activo,2023-04-11,10
+566,Jugo de naranja ,Bebidas,Activo,2023-04-12,3
+567,Vino rose,Bebidas,Activo,2023-04-13,6
+568,Vino tinto ,Bebidas,Activo,2023-04-14,6
+569,Sangria,Bebidas,Activo,2023-04-15,7
+570,Cuba libre,Bebidas,Activo,2023-04-16,8
+571,Gin tonic,Bebidas,Activo,2023-04-17,8
+572,Mimosa,Bebidas,Activo,2023-04-18,7
+573,Negroni,Bebidas,Activo,2023-04-19,12
+574,Michelada,Bebidas,Activo,2023-04-20,4
